@@ -32,11 +32,11 @@ Full Stack Developer and Computer Science undergraduate with hands-on experience
 
 ---
 
-### 📈 GitHub & Problem Solving
+### 📈 GitHub & Portfolio
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lingeshwaran-j&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran-j&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="150" src="https://github.com/lingeshwaran-j/lingeshwaran-j.github.io" alt="Portfolio" />
 </p>
 
 ---
